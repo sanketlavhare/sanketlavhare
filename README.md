@@ -144,17 +144,17 @@ Responsive frontend for a stationery store. User requirements were collected thr
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d1e&ring=9d4edd&fire=7b2cbf&currRing=4895ef&currFire=4895ef&sideNums=e2e8f0&sideLabels=9d4edd&dates=e2e8f0&border=240046&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketlavhare&theme=dark&background=0d0d1e&ring=9d4edd&fire=7b2cbf&currRing=4895ef&currFire=4895ef&sideNums=e2e8f0&sideLabels=9d4edd&dates=e2e8f0&border=240046&border_radius=8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketlavhare&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketlavhare&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 # 📈 Contribution Graph
 
-[![Sanket's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Sanket's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanketlavhare&theme=github-compact)](https://github.com/sanketlavhare)
 
 ---
 
