@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sanketlavhare"><img src="https://img.shields.io/badge/LinkedIn-sanketlavhare-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sanketlavhare@gmail.com"><img src="https://img.shields.io/badge/Email-sanketlavhare%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-sanketlavhare-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
