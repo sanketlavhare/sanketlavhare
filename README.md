@@ -22,7 +22,7 @@
 
 💻 I enjoy turning ideas into working products, from user requirements and UI design to backend logic and databases.
 
-⚙️ Currently working on:
+⚙️ Experience:
 
 - Frontend development as an **SDE-1 Intern at Drogenide Softwares** (Mar 2026 – Oct 2026)
 - Face-recognition based attendance system using Python, OpenCV and Flask
